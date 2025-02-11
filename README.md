@@ -44,7 +44,7 @@ With today's evolving AI paradigm, this tool ensures a mere dataset will never b
 
 ```bash
 # Clone the repository
-git clone https://github.com/m4YnK-7/DataDome.git
+git clone https://github.com/punyajain312/DataDome.git
 cd DataDome
 
 # Install dependencies
